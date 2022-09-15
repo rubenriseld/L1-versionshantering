@@ -1,0 +1,15 @@
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\bin\Debug\net6.0\Labb 1 - Versionshantering.exe
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\bin\Debug\net6.0\Labb 1 - Versionshantering.deps.json
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\bin\Debug\net6.0\Labb 1 - Versionshantering.runtimeconfig.json
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\bin\Debug\net6.0\Labb 1 - Versionshantering.dll
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\bin\Debug\net6.0\Labb 1 - Versionshantering.pdb
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\obj\Debug\net6.0\Labb 1 - Versionshantering.csproj.AssemblyReference.cache
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\obj\Debug\net6.0\Labb 1 - Versionshantering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\obj\Debug\net6.0\Labb 1 - Versionshantering.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\obj\Debug\net6.0\Labb 1 - Versionshantering.AssemblyInfo.cs
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\obj\Debug\net6.0\Labb 1 - Versionshantering.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\obj\Debug\net6.0\Labb 1 - Versionshantering.dll
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\obj\Debug\net6.0\refint\Labb 1 - Versionshantering.dll
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\obj\Debug\net6.0\Labb 1 - Versionshantering.pdb
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\obj\Debug\net6.0\Labb 1 - Versionshantering.genruntimeconfig.cache
+C:\Users\ruben\source\repos\Labb 1 - Versionshantering\Labb 1 - Versionshantering\obj\Debug\net6.0\ref\Labb 1 - Versionshantering.dll
