@@ -3,7 +3,7 @@
 //================================================
 
 bool isRunning = true;
-
+String[] employees = {"Mats", "Mats", "Mats", "Mats"};
 while (isRunning)
 {
     DisplayMenu();
@@ -33,7 +33,11 @@ void ReadInput()
             Console.WriteLine("Vad väntar du på? Börja inventera hyllorna!");
             break;
         case 4:
-            Console.WriteLine("Alla som jobbar här heter Mats.");
+            Console.WriteLine("Vi som jobbar här:");
+            for (int i = 0; i < employees.Length; i++)
+			{
+                Console.WriteLine(employees[i]);
+			}            
             break;
         case 5:
             isRunning = false;
